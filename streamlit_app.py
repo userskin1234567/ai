@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    labels[0] : {"texts" : [냉면는 맛이 있어요"], "images" : ["https://noodleplanet.co.kr/wp-content/uploads/2025/01/chef-park-chanil-12-1.jpg"]
-    labels[1] : {"texts" : [짜장은 맛이 있어요"], "images" : ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]
-    labels[2] : {"texts" : [짬뽕은 맛이 있어요"], "images" : ["https://www.chosun.com/resizer/v2/YPSL2DAN5VDJ5C3HNXWHKJGCRU.jpg?auth=d98ca02f38dff609ee5b3bee78894f70a11a2b0e7d232c84581ebb04140eeb76&width=616"]
-    labels[3] : {"texts" : [탕수육 맛이 있어요"], "images" : ["https://img.siksinhot.com/article/1711422146045324.jpeg"]
+    labels[0] : {"texts" : ["냉면는 맛이 있어요"], "images" : ["https://noodleplanet.co.kr/wp-content/uploads/2025/01/chef-park-chanil-12-1.jpg"]
+    labels[1] : {"texts" : ["짜장은 맛이 있어요"], "images" : ["https://m.health.chosun.com/site/data/img_dir/2024/08/02/2024080201848_0.jpg"]
+    labels[2] : {"texts" : ["짬뽕은 맛이 있어요"], "images" : ["https://www.chosun.com/resizer/v2/YPSL2DAN5VDJ5C3HNXWHKJGCRU.jpg?auth=d98ca02f38dff609ee5b3bee78894f70a11a2b0e7d232c84581ebb04140eeb76&width=616"]
+    labels[3] : {"texts" : ["탕수육 맛이 있어요"], "images" : ["https://img.siksinhot.com/article/1711422146045324.jpeg"]
 }
 
 # ======================
